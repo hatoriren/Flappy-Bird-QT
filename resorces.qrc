@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/nasti/Desktop/Images Flappy Bird/bird_down.png</file>
+        <file>C:/Users/nasti/Desktop/Images Flappy Bird/bird_mid.png</file>
+        <file>C:/Users/nasti/Desktop/Images Flappy Bird/bird_up.png</file>
+        <file>C:/Users/nasti/Desktop/Images Flappy Bird/game over.png</file>
+        <file>C:/Users/nasti/Desktop/Images Flappy Bird/Pillar.png</file>
+        <file>C:/Users/nasti/Desktop/Images Flappy Bird/bg.png</file>
+        <file>C:/Users/nasti/Desktop/Images Flappy Bird/Pillar2.png</file>
+    </qresource>
+</RCC>

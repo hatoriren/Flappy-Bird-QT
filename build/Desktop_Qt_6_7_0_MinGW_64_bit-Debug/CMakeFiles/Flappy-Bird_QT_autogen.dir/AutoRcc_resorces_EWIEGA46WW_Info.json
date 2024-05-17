@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "D:/Programowanie/Flappy-Bird_QT/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Flappy-Bird_QT_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Programowanie/Flappy-Bird_QT/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Programowanie/Flappy-Bird_QT/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Programowanie/Flappy-Bird_QT",
+	"CMAKE_SOURCE_DIR" : "D:/Programowanie/Flappy-Bird_QT",
+	"INCLUDE_DIR" : "D:/Programowanie/Flappy-Bird_QT/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/Flappy-Bird_QT_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/nasti/Desktop/Images Flappy Bird/game over.png",
+		"C:/Users/nasti/Desktop/Images Flappy Bird/bird_down.png",
+		"C:/Users/nasti/Desktop/Images Flappy Bird/Pillar2.png",
+		"C:/Users/nasti/Desktop/Images Flappy Bird/Pillar.png",
+		"C:/Users/nasti/Desktop/Images Flappy Bird/bird_up.png",
+		"C:/Users/nasti/Desktop/Images Flappy Bird/bird_mid.png",
+		"C:/Users/nasti/Desktop/Images Flappy Bird/bg.png"
+	],
+	"LOCK_FILE" : "D:/Programowanie/Flappy-Bird_QT/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/Flappy-Bird_QT_autogen.dir/AutoRcc_resorces_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resorces" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resorces.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Programowanie/Flappy-Bird_QT/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/Flappy-Bird_QT_autogen.dir/AutoRcc_resorces_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Programowanie/Flappy-Bird_QT/resorces.qrc",
+	"VERBOSITY" : 0
+}
